@@ -2,7 +2,7 @@ import orangeLogo from "assets/orange-logo.svg";
 
 const Contact = function () {
     return (
-      <section className="mb-8 mt-8">
+      <section className="mb-8 mt-14">
         <img src={orangeLogo} alt="orange logo"  className="mx-auto w-[100px] rounded-2xl shadow-xl" />
         <p className="mx-auto text-center text-5xl">Get Started</p>
         <p className="mx-auto mt-4 text-center text-[#B1B1B1]">
