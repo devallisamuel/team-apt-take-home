@@ -8,13 +8,13 @@ const Contact = function () {
       AOS.init();
     }, []);
     return (
-      <section className="mb-8 mt-14">
+      <section className="mb-8 mt-[10rem]">
         <img
           src={orangeLogo}
           alt="orange logo"
           className="mx-auto w-[100px] rounded-2xl shadow-xl"
           data-aos="zoom-out-down"
-          data-aos-duration="1500"
+          data-aos-duration="2000"
         />
         <p
           className="mx-auto text-center text-5xl"
